@@ -19,7 +19,7 @@ iframe {
 }
 
 .image {
-  /* width: 90%; */
+  width: 90%;
   height: 100%;
 }
 
@@ -625,6 +625,10 @@ footer i {
 
   .button {
     height: 3.125rem;
+  }
+
+  .image {
+    width: 100%;
   }
 
   /* navigation */
